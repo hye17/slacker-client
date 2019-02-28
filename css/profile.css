@@ -15,7 +15,7 @@ aside {
      display: inline-block;
      width: 35%;
      float: left;
-     height: 70%;
+     height: 80%;
 }
 
 aside img {
@@ -36,6 +36,7 @@ main {
 
 h1 {
 	font-size: 3rem;
+	color: #471c9c;
 
 }
 
@@ -43,20 +44,23 @@ h2 {
 	display: inline-block;
 	font-size: 1.5rem;
 	margin-right: 8rem;
+	color: #471c9c;
 }
 
 h3 {
 	display: inline-block;
 	font-size: 1rem;
+	color: #471c9c;
 }
 
 p {
 	line-height: 2rem;
 	font-size: 1.2rem;
+	color: #000000;
 }
 
 main > section {
-	border-top: 2px #000000 solid;
+	border-top: 2px #471c9c solid;
 	padding-top: 2rem;
 }
 
@@ -69,6 +73,7 @@ span.label {
 	font-weight: 600;
 	min-width: 8rem;
 	display: inline-block;
+	color: #471c9c;
 }
 
 nav {
